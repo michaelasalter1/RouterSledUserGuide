@@ -1,2 +1,2 @@
 # RouterSledUserGuide
-Knowledge Transfer for the Woodshop to use the Router Sled and lessons learned along the way
+This is meant as a knowledge transfer for the Woodshop to use the Router Sled I built, and some helpful lessons learned along the way.
