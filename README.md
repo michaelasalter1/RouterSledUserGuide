@@ -12,7 +12,8 @@ I built a Router Sled to flatten wood slabs and make Epoxy River Tables. This is
   - When you intend to mill wide slabs, or you need the best results possible, it is a good idea to check the levelness of the gantry rails periodically to ensure they have not started to sag from mishandling.
     - Use a 4’ Level from Harbor Freight to check.
     - If the gantry rails are not level, place (2) stacked 2x4s or a 4x4 in the middle of the foundation and add a clamp to each side of ONE gantry rail and straighten each rail separately. Only aim to create ~1/2” bend in the rail at a time to slowly reshape it.  
-![Router Sled Overview](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Overview.png)
+![Router Sled Overview](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Overview.png)  
+![Router Sled Rails](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Rails.png)  
 
 ## Router Gantry
 - Bearing Assembly (4) – guides router gantry along rails
