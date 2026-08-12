@@ -11,14 +11,13 @@ I built a Router Sled to flatten wood slabs and make Epoxy River Tables. This is
   - When lowering your router height, do so with the router near the edge of the rails closes to you, as this will minimizing creating sagging in the gantry rails.
   - When you intend to mill wide slabs, or you need the best results possible, it is a good idea to check the levelness of the gantry rails periodically to ensure they have not started to sag from mishandling.
     - Use a 4’ Level from Harbor Freight to check.
-    - If the gantry rails are not level, place (2) stacked 2x4s or a 4x4 in the middle of the foundation and add a clamp to each side of ONE gantry rail and straighten each rail separately. Only aim to create ~1/2” bend in the rail at a time to slowly reshape it.
+    - If the gantry rails are not level, place (2) stacked 2x4s or a 4x4 in the middle of the foundation and add a clamp to each side of ONE gantry rail and straighten each rail separately. Only aim to create ~1/2” bend in the rail at a time to slowly reshape it.  
 ![Router Sled Overview](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Overview.png)
 
 ## Router Gantry
 - Bearing Assembly (4) – guides router gantry along rails
 - Gantry Tensioner (3) – (not pictured) but mounted between the bearing assemblies on either end of the router gantry to help keep the gantry from racking.
-- Bearing Housing Offset (2 Left, 2 Right) – serves as a mount between the linear bearings and the router base. Decreases clearance of the router to the workpiece.
-
+- Bearing Housing Offset (2 Left, 2 Right) – serves as a mount between the linear bearings and the router base. Decreases clearance of the router to the workpiece.  
 ![Router Gantry](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Router%20Gantry.png)
 
 ## Bearing Assembly
@@ -26,13 +25,12 @@ I built a Router Sled to flatten wood slabs and make Epoxy River Tables. This is
 
 ## Accessories
 Accessories
-- Plunge Router Depth Stop increment gauges
-
+- Plunge Router Depth Stop increment gauges  
 ![Plunge Router Depth Stop Increment Gauges](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Plunge%20Router%20Depth%20Stop.jpg)
 
-- Dust Separator with pressure relief valve. I’m using a 5 hp ridgid shop vac. 
+- Dust Separator with pressure relief valve. I’m using a 5 hp ridgid shop vac.  
+![Dust Separator](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Dust%20Separator.jpg)
 
-![Dust Separator](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Dust%20Separator.jpg)  
 Without the relief valve, the trash can collapses, and the suction becomes worthless.  
 ![Pressure Relief Valve](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Relief%20Valve.png)
 
@@ -106,14 +104,16 @@ If you need it perfectly flat, use a second bit extension to flatten the foundat
 # Rig, Hoist, Flip
 ## Overview
 **_WARNING:_** This Router Sled and all accessories belong to the River Park Wood and Art Club. This is not a professional setup. By using this, you accept the risk and liability. Before using this, you must be a member of the River Park Wood and Art Club, and therefore have signed the liability release waiver.  
-**_WARNING:_** Never lift overhead and never get under a workpiece. Always add backup safety straps whenever lifting in case of main rope failure.
+
+**_WARNING:_** Never lift overhead and never get under a workpiece. Always add backup safety straps whenever lifting in case of main rope failure.  
+
 This guide is meant to serve as a starting basis on how to rig, hoist, and flip a workpiece with limited risk. 
--Working Load Limit (WLL) is a fraction of the Breaking Strength (BS). For this system, due to the limited hoist length, and non-overhead use. 
--For ratings in kN, 1 kN is ~220 lbs, so a 23 kN limit = 5060 lbs.
+- Working Load Limit (WLL) is a fraction of the Breaking Strength (BS). For this system, due to the limited hoist length, and non-overhead use. 
+- For ratings in kN, 1 kN is ~220 lbs, so a 23 kN limit = 5060 lbs.
 
 ## Rope
 The weakest point in a rope is the knot. Most knots diminish the WLL by 25-50%; some up to 75%. So, a working load of 1000 lbs. could become as little as 250 lbs. 
-The [Orange rope in the Old Art Room](https://www.amazon.com/gp/product/B093PQQ375/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+The [Orange rope in the Old Art Room](https://www.amazon.com/gp/product/B093PQQ375/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1):
 - WLL of 528 lbs. BS of 3520 lbs. With a figure 8 knot, the BS is 2,650 lbs and has a WLL of 528 lbs when using a safety factor of 5.
 - Rope due for disposal on June 28, 2034. (10 years from date of purchase)
 
@@ -138,47 +138,47 @@ Avoid jerking the load as you hoist it up or down. Jerky maneuvering can easily 
 # Table Legs
 There is not good guidance on the width of table legs. However, if you are doing a river table, you don’t want to drill into epoxy; the hardware will show through, and it can also crack. 
 
-![Table Leg Problem](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Table%20Legs.jpg)
+![Table Leg Problem](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Table%20Legs.jpg)  
 For this table, I could only use a tiny portion of the bolt holes, which wasn’t ideal for a table of 300 lbs.
 
 So, I cut off the crossmember, had 6”x 6” plates welded to each side, drilled holes, and painted. Avoid the added cost and work. For a table like this, the holes should be at least 4” apart. If you are doing etsy, spend an extra $50-100 to have extra plate welded if you think it suits your use case. For reference, these table legs were $400 before the extra $200 to have the plates welded. Seems like a lot, but that’s comparatively cheap; table legs are expensive. 
 
-Fwiw, Hammered black satin by Rust-oleum is a decent match, but certainly not perfect.
+Fwiw, Hammered black satin by Rust-oleum is a decent match, but certainly not perfect.  
 ![Table Leg Placement](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Table%20Leg%20Placement.jpg)
 
+![Table Leg Placement 2](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Table%20Leg%20Placement%202.jpg)  
+
 # Epoxy!
-Making an epoxy table requires a lot of tools and materials. I’ve created a list with notes here: [Amazon Tools and Materials List](https://www.amazon.com/hz/wishlist/ls/2T5CPWIJCLLNZ/ref=nav_wishlist_lists_2)
+Making an epoxy table requires a lot of tools and materials. I’ve created a list with notes here: [Amazon Tools and Materials List].(https://www.amazon.com/hz/wishlist/ls/2T5CPWIJCLLNZ/ref=nav_wishlist_lists_2)
 I used Blacktail studio’s Epoxy table workshop course. The following sections identify things I’ve learned that work well for me.
 
 ## Calculating Epoxy
 The bottom of your pour will not be a solid layer of epoxy, even if your slabs are perfectly flat. The bottom will most likely need to be flattened when you finish because not only will you get weird pockets of epoxy and non-epoxy, every tuck tape seam will show.
 
-Calculating the bottom layer is difficult, and you never get an even layer. Here is some overage since I only wanted a 1/4” in order to have a dark bottom layer.
+Calculating the bottom layer is difficult, and you never get an even layer. Here is some overage since I only wanted a 1/4” in order to have a dark bottom layer.  
 ![Epoxy Waste](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Epoxy%20Waste.jpg)
 
 ## Sealing
 - If the Old Art Room has the AC running, a sealer coat takes 16 hours, otherwise 18-20 hours.
 - Any cracks in wood can easily leave bubble trails. Fully seal before you pour either with epoxy or with Thick CA glue. 
 - I did walnut. Some sections, especially a ledge, took 6 coats to fully seal. After 2 coats, use a tabletop epoxy if you are on a timeline.
--- Sand with 180 between sealer coats
--- Sanded epoxy creates a white powder. If there is a bubble that is filled with epoxy powder, on the next sealer coat, dab at it with your brush to make it clear again. Alternatively, you can blow it out, vacuum it out, or use dental picks or screws. These bubbles tend to be big enough where the brush works just fine though.
+  - Sand with 180 between sealer coats
+  - Sanded epoxy creates a white powder. If there is a bubble that is filled with epoxy powder, on the next sealer coat, dab at it with your brush to make it clear again. Alternatively, you can blow it out, vacuum it out, or use dental picks or screws. These bubbles tend to be big enough where the brush works just fine though.
 - If you plan on sealing your workpiece propped above your form, and are not immediately going to drop the piece into the form (like if the workpiece might need more than one sealer coat)
--- Cover your form with a plastic drop cloth. Otherwise, drips will screw up your form and your form will have to be reprepped before the pour.
--- For the sealer coat, allow your workpiece to dry with the topside down (that is the last side to be fully submerged during the pour facing down). Otherwise, the sealer coat drip marks are more important to deal with, and that’s a waste of time. To elaborate, how they are drying here, if I didn’t sand the drip marks off, it would throw off the width of my table.
-
+  - Cover your form with a plastic drop cloth. Otherwise, drips will screw up your form and your form will have to be reprepped before the pour.
+  - For the sealer coat, allow your workpiece to dry with the topside down (that is the last side to be fully submerged during the pour facing down). Otherwise, the sealer coat drip marks are more important to deal with, and that’s a waste of time. To elaborate, how they are drying here, if I didn’t sand the drip marks off, it would throw off the width of my table.  
 ![Sealing Setup](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Sealing%20Setup.jpg)
 
 ## Caulk
-I used GE Window & Door Projects All Purpose Silicone, and it worked perfectly. Keep in mind that the seam will cause your slab not to seat perfectly on the edges. For my 4’ wide table, I lost 1/4” width.
-
+I used GE Window & Door Projects All Purpose Silicone, and it worked perfectly. Keep in mind that the seam will cause your slab not to seat perfectly on the edges. For my 4’ wide table, I lost 1/4” width.  
 ![GE All Purpose Silicone](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Caulk.jpg)
 
 ## Prepour
 -	Wipe down with isopropyl 91+. Safeway has cheap bottles, but the ones from harris teeter have the squirt top.
 -	Cool the room and use fans above and below the foundation to keep it cool. 
--- I know without AC you can get away with ~2 gallons at 80 degrees in the Old Art Room. 
--- For big pours (greater than 6 gallons), cool the epoxy (keep it in the old art room) for a few days prior to pour to keep it from overheating and cracking.
---- With AC on full blast and a few days to cool off, I did a 6 gallon pour successfully. You can probably get away with more, but I figured better safe than sorry.
+  - I know without AC you can get away with ~2 gallons at 80 degrees in the Old Art Room. 
+  - For big pours (greater than 6 gallons), cool the epoxy (keep it in the old art room) for a few days prior to pour to keep it from overheating and cracking.
+    - With AC on full blast and a few days to cool off, I did a 6 gallon pour successfully. You can probably get away with more, but I figured better safe than sorry.
 
 ## Pour
 - If the Old Art Room has the AC running, 3-6 gallons takes ~39 hours to cure depending on humidity (for pours 0.25” to 1.25”).
@@ -188,7 +188,7 @@ I used GE Window & Door Projects All Purpose Silicone, and it worked perfectly. 
 - I found that sanding to 180 grit is rough enough for epoxy to bond to itself and not leave residue. In fact, when my project failed, the two pour layers adhered well enough to one aonther that it actually broke the bottom layer that had already previously cured.
 - If 2-part pour, and there are pits on the bottom layer from bubbles, watch out for sanding dust. If so, either clean out with vacuum/air, pick with dental pics, or force epoxy into it with a brush on next pour. I’d recommend pouring isopropyl on it to determine what needs to be addressed before doing the next pour
 - If clear/translucent, make sure there are no fingerprints.
-- Wipe with isopropyl 91+. Dries quicker than water.
+- Wipe with isopropyl 70+. Dries quicker than water.
 
 ## Fail
 If the pour gets too hot, the epoxy will cure too fast and then crack. 
@@ -196,29 +196,25 @@ If the pour gets too hot, the epoxy will cure too fast and then crack.
 ![Fail 2](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Fail%202.jpg)
 ![Fail 3](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Fail%203.jpg)
 
-You can throw it away or spend $100 on a 4.5” angle grinder and accessories from Harbor Freight. It’s actually lots of fun. But super messy. Use a respirator and goggles. Swim goggles are great for this task.
-
+You can throw it away or spend $100 on a 4.5” angle grinder and accessories from Harbor Freight. It’s actually lots of fun. But super messy. Use a respirator and goggles. Swim goggles are great for this task.  
 ![Messy](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Dirty%20Work.jpg)
 
 - To repair cracked epoxy: Circular saw > Jigsaw (optional) > Angle Grinder (AG) with Segmented Wheel > AG Steel Wood-Shaping Dish > AG 36 grit sanding disc > Sander. 
 - If color matching is a thing and you are concerned about transition colors, accept the fact that you will reshape when you gouge the wood if dealing with intricate stuff.
--- As I'm writing this, I'm actually wondering if that was overkill and it would have blended well without me going all the way back to bare wood.
-
+  - As I'm writing this, I'm actually wondering if that was overkill and it would have blended well without me going all the way back to bare wood.  
 ![Reshape](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Reshape.jpg)
 
-- For intricate stuff or weird shapes around the live edge, a Dremel with bur bits and then upcut or downcut bits work well.
-
+- For intricate stuff or weird shapes around the live edge, a Dremel with bur bits and then upcut or downcut bits work well.  
 ![Reshape 2](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Reshape%202.jpg)
 
 # Finishing
 ## Repair Imperfection
-Use clear CA glue unless the hole is big enough to not drip black outside of it. Otherwise, it will bleed
-
+Use clear CA glue unless the hole is big enough to not drip black outside of it. Otherwise, it will bleed.  
 ![Epoxy Fill Holes](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Fill%20Holes.jpg)
 
-Accelerator is good when the crack is big enough to need thick epoxy. Otherwise, the accelerator can cause the glue to turn white or can leave a gap below the top layer that you will struggle to fill as you progressively sand finer.
-Here’s what the progression looks like: CA, sand 180, CA, sand 120, CA, sand 180, CA, sand 180, give up. If you have holes, eventually the table will reveal more with use. That's part of working with a natural product.
+Accelerator is good when the crack is big enough to need thick epoxy. Otherwise, the accelerator can cause the glue to turn white or can leave a gap below the top layer that you will struggle to fill as you progressively sand finer.  
 
+Here’s what the progression looks like: CA, sand 180, CA, sand 120, CA, sand 180, CA, sand 180, give up. If you have holes, eventually the table will reveal more with use. That's part of working with a natural product.  
 ![Epoxy Fill Holes 2](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Fill%20Hole%202.jpg)
 
 ## Sander
@@ -238,43 +234,42 @@ To see how much a good sander makes a difference:
 # Appendix
 ## Calculations
 - [FGCI Deep Pour 2-4” Epoxy](https://www.superepoxysystems.com/product/liquid-glass-deep-pour-epoxy/?attribute_kit-size=3+Gallon+Kit&gad_source=1) uncured weight: 9 lbs/gallon.
-- [FGCI] (https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbartopepoxy.com/pages/epoxy-calculator&ved=2ahUKEwiriJ6D_rqIAxXGKFkFHalPKDQQFnoECA8QAQ&usg=AOvVaw1_ufttAt1gyGt3QI9MN1Hf)
+- [FGCI](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbartopepoxy.com/pages/epoxy-calculator&ved=2ahUKEwiriJ6D_rqIAxXGKFkFHalPKDQQFnoECA8QAQ&usg=AOvVaw1_ufttAt1gyGt3QI9MN1Hf)
 - [Blacktail] (https://www.blacktailstudio.com/epoxycalculator)
 
 # Rigging Knots
-- [Retraced Figure 8](https://www.alpinesavvy.com/blog/how-to-tie-the-perfect-retraced-figure-8)
-- Figure 8
-- Constrictor knot – Cannot be untied!
 - Alpine Butterfly
-- Bowline 
+- Bowline
+- Constrictor knot – Cannot be untied!
+- Figure 8
+- [Retraced Figure 8](https://www.alpinesavvy.com/blog/how-to-tie-the-perfect-retraced-figure-8)
 
-## Common Lumber Weight and Hardness
-(Common Wood Species Guide](https://www.wood-database.com/)
-Species/Average Dried Weight (lbs/ft^3)/Janka Harness (Newtons)
+ ## Common Lumber Weight and Hardness
+(Common Wood Species Guide](https://www.wood-database.com/)  
+Species/Average Dried Weight (lbs/ft^3)/Janka Harness (Newtons)  
 -Cedar
--- Eastern Aromatic (Red) Cedar -- 4000
--- Western (White) Cedar
+  - Eastern Aromatic (Red) Cedar -- 4000
+  - Western (White) Cedar
 - Maple
--- Hard Maple 44	6450
--- Silver Maple 33	3110
--- Soft Maple  
+  - Hard Maple 44	6450
+  - Silver Maple 33	3110
+  - Soft Maple  
 - Oak
--- Red Oak 44	5430
--- White Oak
+  - Red Oak 44	5430
+  - White Oak
 - Pine 28-34	2050-2250
 - Poplar 2400
 - Rubberwood
--- Walnut
--- Black Walnut	38	4490
--- English Walnut
-
+- Walnut
+  - Black Walnut	38	4490
+  - English Walnut
 
 ## Source Print Models
-- The original routersled design was modified from https://www.thingiverse.com/thing:4565094 \
-- Remix of Router Sled Handle: https://www.thingiverse.com/thing:5330170 \
-- Adapter 4" to 2.5" dust collector: https://www.printables.com/en/model/589597-shop-vac-tool-adapter-4-to-2-15-hose \
-- Craftsman Shopvac Replacement Foot: https://www.thingiverse.com/thing:5909428 \
-- Dust Collection Relief Valve: https://www.thingiverse.com/thing:3644937 \
+- [The original router sled design](https://www.thingiverse.com/thing:4565094)
+- [Remix of Router Sled Handle](https://www.thingiverse.com/thing:5330170)
+- [Adapter 4" to 2.5" dust collector](https://www.printables.com/en/model/589597-shop-vac-tool-adapter-4-to-2-15-hose)
+- [Craftsman Shopvac Replacement Foot](https://www.thingiverse.com/thing:5909428)
+- [Dust Collection Relief Valve](https://www.thingiverse.com/thing:3644937)
 
 ## Amazon Purchase Lists
 - [Router Sled Materials](https://www.amazon.com/hz/wishlist/ls/3G5MYD8QBKA7V?ref_=wl_share)
