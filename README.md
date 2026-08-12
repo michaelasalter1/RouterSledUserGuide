@@ -9,7 +9,9 @@ I built a Router Sled to flatten wood slabs and make Epoxy River Tables. This is
 - Rails – **DO NOT DAMAGE THESE!**
   - While the rails are part of the foundation, they are the most important part on this entire structure. The Router Gantry uses these for reference. Every effort has been made to ensure these are perfectly flat, level, and coplanar. The pine rails tend to splinter the tops and inner sides with repeated use. This is not surprising since this is where the bearings on the router gantry contact the rails. To prevent this, I coated these sections of the rails with epoxy and sanded them flat to enhance their durability.
   - When lowering your router height, do so with the router near the edge of the rails closes to you, as this will minimizing creating sagging in the gantry rails.
-  - When you intend to mill wide slabs, or you need the best results possible, it is a good idea to check the levelness of the gantry rails periodically to ensure they have not started to sag from mishandling. Use a 4’ Level from Harbor Freight to check. If the gantry rails are not level, place (2) stacked 2x4s or a 4x4 in the middle of the foundation and add a clamp to each side of ONE gantry rail and straighten each rail separately. Only aim to create ~1/2” bend in the rail at a time to slowly reshape it.
+  - When you intend to mill wide slabs, or you need the best results possible, it is a good idea to check the levelness of the gantry rails periodically to ensure they have not started to sag from mishandling.
+    - Use a 4’ Level from Harbor Freight to check.
+    - If the gantry rails are not level, place (2) stacked 2x4s or a 4x4 in the middle of the foundation and add a clamp to each side of ONE gantry rail and straighten each rail separately. Only aim to create ~1/2” bend in the rail at a time to slowly reshape it.
 ![Router Sled Overview](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Overview.png)
 
 ## Router Gantry
@@ -28,10 +30,10 @@ Accessories
 
 ![Plunge Router Depth Stop Increment Gauges](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Plunge%20Router%20Depth%20Stop.jpg)
 
-- Dust Separator with pressure relief valve. I’m using a 5 hp ridgid shop vac. Without the relief valve, the trash can collapses, and the suction becomes worthless.
+- Dust Separator with pressure relief valve. I’m using a 5 hp ridgid shop vac. 
 
 ![Dust Separator](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Dust%20Separator.jpg)
-
+Without the relief valve, the trash can collapses, and the suction becomes worthless.
 ![Pressure Relief Valve](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Relief%20Valve.png)
 
 ## Part Replacement
@@ -43,8 +45,8 @@ Cura print settings for bushings and washers: infill didn’t matter, no support
 Flashprint is great for supports. However, I had problems with it printing the bushings and washers; they didn’t want to adhere to the bed. So, I used Cura to print those. Therefore, you will need to calibrate the holes for the bushings and housings AND for the bearing assemblies (they are different).
 Test Print Calibration – Use these 2 files to dial in the calibration of holes before printing the assemblies.
 
-All Prints Used for this build:
-- 4 Bearing Assemblies
+All Printed Parts Used for this build:
+- (4) Bearing Assemblies
 - (16) bushings (4 per assembly, printed in Cura)
 - (12) printed washers (3 per assembly, printed in Cura)
 - (2) Left Bearing Housing Offsets
@@ -56,16 +58,17 @@ All Prints Used for this build:
 ## Purchased Hardware
 ### Foundation, Rails, Riser Rails, and Hoist Gantry
 - Lumber
--- 2 x 4 x 8
--- 2 x 4 x 10
--- 2 x 6 x 10
--- 4 x 4
+  - 2 x 4 x 8
+  - 2 x 4 x 10
+  - 2 x 6 x 10
+  - 4 x 4
 - ½” Nuts
 - ½” Bolts
--- 6” 
--- 8”
-- Cable Puller (2) (Harbor Freight)
-- Snatch Ring (2) (Amazon)
+  - 6” 
+  - 8”
+- (9) Adjustable Feet
+- (2) Cable Puller (Harbor Freight)
+- (2) Snatch Ring (Amazon)
 - Rope (Amazon)
 
 ### Router Gantry
@@ -83,7 +86,7 @@ All Prints Used for this build:
 Materials
 - Router
 - Bit
-- Bit Extension (2)
+- (2) Bit Extension - one for flexibility, second is for leveling the foundation (Spoilboard)
 
 ## Directions
 Route/flatten towards you and to the left in ~1” passes has worked the best for me. Some prefer to run it with the grain. If milling epoxy, here are a few tips that help:
@@ -102,7 +105,7 @@ If you need it perfectly flat, use a second bit extension to flatten the foundat
 
 # Rig, Hoist, Flip
 ## Overview
-**_WARNING:_** This Router Sled and all accessories belong to the River Park Wood and Art Club. This is not a professional setup. By using this, you accept the risk and liability. Before using this, you must be a member of the River Park Wood and Art Club, and therefore have signed the liability release waiver.
+**_WARNING:_** This Router Sled and all accessories belong to the River Park Wood and Art Club. This is not a professional setup. By using this, you accept the risk and liability. Before using this, you must be a member of the River Park Wood and Art Club, and therefore have signed the liability release waiver.  
 **_WARNING:_** Never lift overhead and never get under a workpiece. Always add backup safety straps whenever lifting in case of main rope failure.
 This guide is meant to serve as a starting basis on how to rig, hoist, and flip a workpiece with limited risk. 
 -Working Load Limit (WLL) is a fraction of the Breaking Strength (BS). For this system, due to the limited hoist length, and non-overhead use. 
