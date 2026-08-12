@@ -32,8 +32,8 @@ Accessories
 
 - Dust Separator with pressure relief valve. I’m using a 5 hp ridgid shop vac. 
 
-![Dust Separator](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Dust%20Separator.jpg)
-Without the relief valve, the trash can collapses, and the suction becomes worthless.
+![Dust Separator](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Dust%20Separator.jpg)  
+Without the relief valve, the trash can collapses, and the suction becomes worthless.  
 ![Pressure Relief Valve](https://github.com/michaelasalter1/RouterSledUserGuide/blob/main/Pics%20and%20Video/Relief%20Valve.png)
 
 ## Part Replacement
